@@ -20,7 +20,7 @@ Guía completa para desplegar la aplicación en producción.
 
 ```
 ┌──────────────────────────────────────────────────────┐
-│                 Usuarios Finales                      │
+│                 Usuarios Finales                     │
 └────────────┬──────────────────────┬──────────────────┘
              │                      │
              │                      │
